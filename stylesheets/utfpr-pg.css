@@ -6,14 +6,14 @@
     padding-left: 8px;
 }
 
-#octo {
+.octo {
     height: 32px;
     width: 32px;
     background: url(../images/GitHub-Mark/PNG/GitHub-Mark-32px.png);
     display:block;
 }
 
-#octo:hover {
+.octo:hover {
     background: url(../images/GitHub-Mark/PNG/GitHub-Mark-Light-32px.png);
 }
 
