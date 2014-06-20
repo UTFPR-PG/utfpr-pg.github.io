@@ -17,3 +17,6 @@
     background: url(../images/GitHub-Mark/PNG/GitHub-Mark-Light-32px.png);
 }
 
+h1 {
+    white-space: normal !important;
+}
